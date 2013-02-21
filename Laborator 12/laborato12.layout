@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="AA.c" open="1" top="1" tabpos="1">
+		<Cursor position="752" topLine="13" />
+	</File>
+	<File name="Afunc1.c" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
+[Editors]
+Focused=1
+Order=1,0
+[Editor_0]
+Open=1
+Top=0
+CursorCol=12
+CursorRow=21
+TopLine=7
+LeftChar=1
+[Editor_1]
+Open=1
+Top=1
+CursorCol=23
+CursorRow=24
+TopLine=1
+LeftChar=1

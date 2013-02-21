@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1323645040 source:c:\users\flavius\desktop\facultate\programarea calculatoarelor\proiecte\laborator\laborator 11\l-funccs.c
+	"CS.h"
+
+1323639740 c:\users\flavius\desktop\facultate\programarea calculatoarelor\proiecte\laborator\laborator 11\cs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+
+1323644761 source:c:\users\flavius\desktop\facultate\programarea calculatoarelor\proiecte\laborator\laborator 11\l-cs.c
+	<conio.h>
+	"CS.h"
+

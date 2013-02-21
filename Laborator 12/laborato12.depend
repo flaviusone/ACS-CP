@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1324388539 source:e:\cb\lucru\laborator 12\afunc1.c
+	"analize.h"
+
+1324287946 e:\cb\lucru\laborator 12\analize.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1324388712 source:e:\cb\lucru\laborator 12\aa.c
+	"analize.h"
+

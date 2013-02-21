@@ -1,0 +1,5 @@
+5
+Stanescu Nanu		7 6 8 5 0
+Stanescu Alecu		10 9 9 9 0
+Alistar Alexandru	0 2 1 5 0
+Tirnacop Flavius	10 10 10 10 0

@@ -1,0 +1,22 @@
+1.  parametrii functiei: adrgrup , anulnasterii(intreg) , ocupatie
+functia citeste numele unui fisier txt , il deschide pt scriere, si scrie cate o linie urmatoare structura
+indicepers. 		Nume,Prenume	 - cnp [val grupa sanguina]
+pt fiecare persoana cu anul si ocupatia date ca param
+
+rezultatul este nr linii scrise in fisier sau cod eroare < 0
+
+
+2.Functia de comparatie pt sortare
+cod judet (descresc)
+an nastere (cresc)
+grupa sanguina (descresc) 
+
+dupa sortare se afiseaza 
+cod judet: Nume Prenume 		aa,gs         (an nastere si grupa sang)
+cod judet:
+
+3.Scrieti secv de instr care real urmat prelucrari (citeste codul unui judet,parcurge vectorul sortat si det adr primei si ultimei pers dintre 
+cele nascute in judetul respectiv apoi afis unul din urmat mesaje
+a.In ___ s-au nascut __ persoane cu indici in [iprim,iultim]
+b.Nu exista persoane din ____
+Daca parcurgerea se face cu pointeri (bonus)
